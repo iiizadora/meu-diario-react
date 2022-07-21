@@ -9,7 +9,7 @@ function App() {
     <div className="container_main">
       <Header>Meu diário Reprograma</Header>
       <About
-        image="./src/img/profile.jpg"
+        image="https://avatars.githubusercontent.com/u/69588653?s=400&u=1459d4fc2353c494b655466782a3a3c925ac39bc&v=4"
         description="Foto da aluna Izadora"
       ></About>
       <hr></hr>
